@@ -1,0 +1,1 @@
+https://docs.hortonworks.com/HDPDocuments/HDP2/HDP-2.6.1/bk_security/content/ranger_column_masking_in_hive.html
